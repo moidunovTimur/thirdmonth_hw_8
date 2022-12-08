@@ -27,6 +27,7 @@ class SecondFragment : Fragment() {
 
         binding.titleTv.text =name.name
 
+
     }
 
 
